@@ -1,2 +1,1 @@
-# precurs-henry
-prueba 2
+este es la seguda pruevapra pasar de gihud a git y visual code
